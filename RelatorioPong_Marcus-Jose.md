@@ -12,8 +12,9 @@ O jogo original do Pong simula uma partida de tênis de mesa de forma simples, d
 * Mecânicas: Movimento das barras e da bola, colição, um placar e uma regra de pontuação.
 * Dinâmicas: Deve se ter reflexos rápidos e controle preciso da barra, além de adaptação à alteração da velocidade da bola.
 * Estética: Competição intensa e satisfação ao marcar pontos, pois a partida reseta.
-O que torna Pong um jogo envolvente e jogável é sua 
-simplicidade e capacidade de gerar tensão entre os jogadores, além de aumentar a dificuldade gradualmente, impedindo o tédio. Sendo assim, seus principais elementos de diversão são: **a resposta rápida aos comandos e o fácil aprendizado**, e seus principais elementos de desafio são: **a necessidade de reflexos ágeis e adaptação ao aumento da velocidade da bola**. 
+
+O que torna Pong um jogo envolvente e jogável é sua simplicidade e capacidade de gerar tensão entre os jogadores, além de aumentar a dificuldade gradualmente, impedindo o tédio. Sendo assim, seus principais elementos de diversão são: **a resposta rápida aos comandos e o fácil aprendizado**, e seus principais elementos de desafio são: **a necessidade de reflexos ágeis e adaptação ao aumento da velocidade da bola**. 
+
 ---
 
 ## 3. Proposta de Reinvenção  
