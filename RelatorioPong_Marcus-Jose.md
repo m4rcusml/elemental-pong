@@ -37,11 +37,18 @@ A seguir está a folha da concept art que contem as ideias iniciais do jogo. Ela
 ---
 
 ## 4. Tela Digital do Jogo  
+
 *- Como o concept foi adaptado para o formato digital?*
+
+Nós utilizamos o Figma como plataforma para fazer a adaptação e fizemos uso de alguns assets gratuitos disponibilizados na internet.
 
 *- Quais elementos visuais foram aprimorados?*  
 
+Embora focamos em manter a estética minimalista, todos os elementos do jogo tiveram seu design aprimorado, o background, a bola, a score e as plataformas. Além disso, também houve a adição de novos elementos, como, por exemplo, as skills.
+
 *- O uso de cores, formas e layout foi pensado para reforçar que aspectos do jogo?*  
+
+Usamos cores vibrantes e contrastantes para diferenciar os lados dos jogadores e destacar os efeitos elementais. As formas foram pensadas para serem modernas e limpas, garantindo clareza durante o jogo acelerado. O layout ficou simples e intuitivo, com indicadores de recarga das habilidades próximos às raquetes. Tudo isso reforça a competitividade e o dinamismo do jogo, sem poluir a tela.
 
 <table style="border: 1px solid white; margin: 0 auto;">
     <tr>
@@ -59,13 +66,14 @@ A seguir está a folha da concept art que contem as ideias iniciais do jogo. Ela
 **1. Quais foram os maiores desafios enfrentados durante o processo de criação?**
 Definitivamente foi a decisão sobre o tema do novo Pong e unir as ideias da dupla, criar uma ideia que não seja tão genérica ou simples não é muito fácil.
 
-**2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?** Foram desenvolvidas habilidades de adaptar de mecânicas clássicas para novas propostas, além de criatividade para ambientação e criação de habilidades especiais.
+**2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?** 
+Foram desenvolvidas habilidades de adaptar de mecânicas clássicas para novas propostas, além de criatividade para ambientação e criação de habilidades especiais.
 
 ### José
 **1. Quais foram os maiores desafios enfrentados durante o processo de criação?**
-Pspspspspsp
+Na minha perspectiva, os maiores desafios ao reimaginar o Pong foram, respectivamente, tentar ser original e manter o mesmo estilo do jogo, visto que nós queriamos algo diferente, mas que seguisse as mesmas mecânicas.
 
 **2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?**
-pspspspspsp
+Consegui aprimorar minhas habilidades utilizando o Figma e também minha capacidade de síntese de ideias, ao fundir as ideias com meu parceiro.
 
 ---
